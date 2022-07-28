@@ -9,3 +9,8 @@ body{
         height: 600px;
     }
 }
+@media only screen and (min-width:689px) and (max-width:992px){
+    .home img{
+        height: 600px;
+    }
+}
