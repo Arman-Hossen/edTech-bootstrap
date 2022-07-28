@@ -1,6 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.comonn{
+    position: relative;
+}
+.fa-angle-left{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    
+    
+}
+.fa-angle-right{
+    position: absolute;
+    right: 0;
+    top: 50%;
+}
 .cover-img{
     filter: brightness(50%);
 }
